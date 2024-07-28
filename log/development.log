@@ -1,0 +1,21 @@
+Started GET "/" for ::1 at 2024-07-28 14:23:15 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/shota/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/shota/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 636)
+Completed 200 OK in 14ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 7122)
+
+
+Started GET "/" for ::1 at 2024-07-28 14:23:38 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/shota/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/shota/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 296)
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 1084)
+
+
+Started GET "/" for ::1 at 2024-07-28 14:39:33 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/shota/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/shota/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.8.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | Allocations: 296)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 1083)
+
+
